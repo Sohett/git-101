@@ -10,6 +10,9 @@ body {
 	font-family: helvetica;
 }
 
+H1 {
+	font-weight: 100px;}
+
 .container {
 	display: flex;
 	align-items: center;
