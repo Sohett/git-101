@@ -1,6 +1,19 @@
-img	{
+.avatar	{
 	width: 100px;
 	height: 100px;
 	border-radius: 50px;
 	box-shadow: 3px 3px 4px #646464;
+}
+
+body {
+	margin: 0;
+	font-family: helvetica;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height : 100vh;
+	flex-direction: column;
 }
